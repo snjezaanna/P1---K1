@@ -25,7 +25,7 @@ int main()
             temp/=10;
         }
         if(Sp==Sn)  {
-            printf("%Broj %d pripada nizu\n", i);
+            printf("Broj %d pripada nizu\n", i);
         }
     }
     return 0;
