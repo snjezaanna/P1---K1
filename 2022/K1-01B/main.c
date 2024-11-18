@@ -27,7 +27,7 @@ int main()
             temp/=2;
         }
         if(kecevi>=k) {
-            printf("Broj %d ima vise od %d jedinica u BIN\n", i, k);
+            printf("Broj %d ima vise od %d jedinice/a u BIN\n", i, k);
         }
     }
 
